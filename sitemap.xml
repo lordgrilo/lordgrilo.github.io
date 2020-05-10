@@ -3,42 +3,187 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lordgrilo.github.io/publication_types/2/</loc>
-    <lastmod>2019-06-02T15:19:36-04:00</lastmod>
+    <loc>https://lordgrilo.github.io/publication_types/3/</loc>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://lordgrilo.github.io/</loc>
-    <lastmod>2019-06-02T15:19:36-04:00</lastmod>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/alain-barrat/</loc>
-    <lastmod>2019-06-02T15:19:36-04:00</lastmod>
+    <loc>https://lordgrilo.github.io/authors/a.-de-gregorio/</loc>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://lordgrilo.github.io/authors/</loc>
-    <lastmod>2019-06-02T15:19:36-04:00</lastmod>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/giovanni-petri/</loc>
-    <lastmod>2019-06-02T15:19:36-04:00</lastmod>
+    <loc>https://lordgrilo.github.io/authors/f.-vaccarino/</loc>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/iacopo-iacopini/</loc>
-    <lastmod>2019-06-02T15:19:36-04:00</lastmod>
+    <loc>https://lordgrilo.github.io/authors/g.-petri/</loc>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/publication/minimal-scaffold/</loc>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/authors/m.-guerra/</loc>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/tags/persistent-homology/</loc>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://lordgrilo.github.io/publication_types/</loc>
-    <lastmod>2019-06-02T15:19:36-04:00</lastmod>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://lordgrilo.github.io/publication/</loc>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/tags/scaffold/</loc>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/tags/</loc>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/tags/tda/</loc>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/authors/u.-fugacci/</loc>
+    <lastmod>2020-04-24T18:09:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/publication_types/2/</loc>
+    <lastmod>2020-03-10T17:05:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/tags/contagion/</loc>
+    <lastmod>2020-03-10T17:05:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/tags/dynamics/</loc>
+    <lastmod>2020-03-10T17:05:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/authors/g.f.de-arruda/</loc>
+    <lastmod>2020-03-10T17:05:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/tags/hypergraphs/</loc>
+    <lastmod>2020-03-10T17:05:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/publication/hypergraph-contagion/</loc>
+    <lastmod>2020-03-10T17:05:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/authors/y.-moreno/</loc>
+    <lastmod>2020-03-10T17:05:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/authors/f.-a.-rodrigues/</loc>
+    <lastmod>2020-01-14T17:41:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/authors/g.f.-de-arruda/</loc>
+    <lastmod>2020-01-14T17:41:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/tags/heterogeneity/</loc>
+    <lastmod>2020-01-14T17:41:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/publication/heterogeneous-recovery/</loc>
+    <lastmod>2020-01-14T17:41:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/tags/networks/</loc>
+    <lastmod>2020-01-14T17:41:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/tags/spreading/</loc>
+    <lastmod>2020-01-14T17:41:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/authors/a.-phyniomark/</loc>
+    <lastmod>2019-10-15T17:16:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/authors/e.-iba%C3%B1ez-marcelo/</loc>
+    <lastmod>2019-10-15T17:16:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/authors/e.l.-santarcangelo/</loc>
+    <lastmod>2019-10-15T17:16:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/tags/eeg/</loc>
+    <lastmod>2019-10-15T17:16:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/tags/hypnotizability/</loc>
+    <lastmod>2019-10-15T17:16:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/authors/l.-campioni/</loc>
+    <lastmod>2019-10-15T17:16:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/publication/perception-imagery/</loc>
+    <lastmod>2019-10-15T17:16:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/authors/a.-barrat/</loc>
+    <lastmod>2019-06-02T15:19:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lordgrilo.github.io/authors/i.-iacopini/</loc>
     <lastmod>2019-06-02T15:19:36-04:00</lastmod>
   </url>
   
@@ -48,7 +193,7 @@
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/vito-latora/</loc>
+    <loc>https://lordgrilo.github.io/authors/v.-latora/</loc>
     <lastmod>2019-06-02T15:19:36-04:00</lastmod>
   </url>
   
@@ -73,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/caleb-geniesse/</loc>
+    <loc>https://lordgrilo.github.io/authors/c.-geniesse/</loc>
     <lastmod>2019-05-25T14:57:32-04:00</lastmod>
   </url>
   
@@ -83,17 +228,17 @@
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/manish-saggar/</loc>
+    <loc>https://lordgrilo.github.io/authors/m.-saggar/</loc>
     <lastmod>2019-05-25T14:57:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/olaf-sporns/</loc>
+    <loc>https://lordgrilo.github.io/authors/o.-sporns/</loc>
     <lastmod>2019-05-25T14:57:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/alice-patania/</loc>
+    <loc>https://lordgrilo.github.io/authors/a.-patania/</loc>
     <lastmod>2019-05-24T17:16:02-05:00</lastmod>
   </url>
   
@@ -113,37 +258,27 @@
   </url>
   
   <url>
+    <loc>https://lordgrilo.github.io/authors/m.-veronese/</loc>
+    <lastmod>2019-05-24T17:16:02-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lordgrilo.github.io/tags/mapper/</loc>
     <lastmod>2019-05-24T17:16:02-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/mattia-veronese/</loc>
+    <loc>https://lordgrilo.github.io/authors/o.-di-pasquale/</loc>
     <lastmod>2019-05-24T17:16:02-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/ottavia-di-pasquale/</loc>
+    <loc>https://lordgrilo.github.io/authors/p.-expert/</loc>
     <lastmod>2019-05-24T17:16:02-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/paul-expert/</loc>
-    <lastmod>2019-05-24T17:16:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/authors/pierluigi-selvaggi/</loc>
-    <lastmod>2019-05-24T17:16:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/tags/</loc>
-    <lastmod>2019-05-24T17:16:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/tags/tda/</loc>
+    <loc>https://lordgrilo.github.io/authors/p.-selvaggi/</loc>
     <lastmod>2019-05-24T17:16:02-05:00</lastmod>
   </url>
   
@@ -153,32 +288,17 @@
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/diego-manzoni/</loc>
+    <loc>https://lordgrilo.github.io/authors/d.-manzoni/</loc>
     <lastmod>2019-02-25T17:16:02-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/tags/eeg/</loc>
+    <loc>https://lordgrilo.github.io/authors/e.-ibanez-marcelo/</loc>
     <lastmod>2019-02-25T17:16:02-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/enrica-l.-santarcangelo/</loc>
-    <lastmod>2019-02-25T17:16:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/authors/esther-ibanez-marcelo/</loc>
-    <lastmod>2019-02-25T17:16:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/tags/hypnotizability/</loc>
-    <lastmod>2019-02-25T17:16:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/authors/lisa-campioni/</loc>
+    <loc>https://lordgrilo.github.io/authors/e.-l.-santarcangelo/</loc>
     <lastmod>2019-02-25T17:16:02-05:00</lastmod>
   </url>
   
@@ -213,6 +333,11 @@
   </url>
   
   <url>
+    <loc>https://lordgrilo.github.io/authors/giovanni-petri/</loc>
+    <lastmod>2018-12-11T15:05:34-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lordgrilo.github.io/authors/guilherme-ferraz-de-arruda/</loc>
     <lastmod>2018-12-11T15:05:34-04:00</lastmod>
   </url>
@@ -228,43 +353,13 @@
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/publication/sad/</loc>
+    <loc>https://lordgrilo.github.io/authors/alain-barrat/</loc>
     <lastmod>2018-05-17T15:41:14-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/a.-phyniomark/</loc>
-    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/authors/e.-iba%C3%B1ez-marcelo/</loc>
-    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/authors/e.l.-santarcangelo/</loc>
-    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/authors/g.-petri/</loc>
-    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/authors/l.-campioni/</loc>
-    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/publication/perception-imagery/</loc>
-    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/authors/a.-patania/</loc>
-    <lastmod>2017-12-06T01:21:02+02:00</lastmod>
+    <loc>https://lordgrilo.github.io/publication/sad/</loc>
+    <lastmod>2018-05-17T15:41:14-04:00</lastmod>
   </url>
   
   <url>
@@ -298,18 +393,8 @@
   </url>
   
   <url>
-    <loc>https://lordgrilo.github.io/authors/f.-vaccarino/</loc>
-    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lordgrilo.github.io/publication/collabs/</loc>
     <lastmod>2017-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/publication_types/3/</loc>
-    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -349,11 +434,6 @@
   
   <url>
     <loc>https://lordgrilo.github.io/publication/gait/</loc>
-    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/authors/e.-ibanez-marcelo/</loc>
     <lastmod>2017-07-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -409,11 +489,6 @@
   
   <url>
     <loc>https://lordgrilo.github.io/authors/m.-l.-kringelbach1/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lordgrilo.github.io/authors/p.-expert/</loc>
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
   </url>
   

@@ -5,7 +5,7 @@
     <link>https://lordgrilo.github.io/authors/g.-petri/</link>
       <atom:link href="https://lordgrilo.github.io/authors/g.-petri/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Petri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 18:09:54 +0200</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>G. Petri</title>
@@ -13,10 +13,66 @@
     </image>
     
     <item>
+      <title>Homological Scaffold via Minimal Homology Bases</title>
+      <link>https://lordgrilo.github.io/publication/minimal-scaffold/</link>
+      <pubDate>Fri, 24 Apr 2020 18:09:54 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/minimal-scaffold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social contagion models on hypergraphs</title>
+      <link>https://lordgrilo.github.io/publication/hypergraph-contagion/</link>
+      <pubDate>Tue, 10 Mar 2020 17:05:56 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/hypergraph-contagion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of the distribution of recovery rates on disease spreading in complex networks</title>
+      <link>https://lordgrilo.github.io/publication/heterogeneous-recovery/</link>
+      <pubDate>Tue, 14 Jan 2020 17:41:48 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/heterogeneous-recovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Topology highlights mesoscopic functional equivalence between imagery and perception</title>
       <link>https://lordgrilo.github.io/publication/perception-imagery/</link>
-      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2019 17:16:02 -0500</pubDate>
       <guid>https://lordgrilo.github.io/publication/perception-imagery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplicial Models of social Contagion</title>
+      <link>https://lordgrilo.github.io/publication/simplagion/</link>
+      <pubDate>Sun, 02 Jun 2019 15:19:36 -0400</pubDate>
+      <guid>https://lordgrilo.github.io/publication/simplagion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis</title>
+      <link>https://lordgrilo.github.io/publication/dynseur/</link>
+      <pubDate>Sat, 25 May 2019 14:57:32 -0400</pubDate>
+      <guid>https://lordgrilo.github.io/publication/dynseur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological gene-expression networks recapitulate brain anatomy and function</title>
+      <link>https://lordgrilo.github.io/publication/gene-mapper/</link>
+      <pubDate>Fri, 24 May 2019 17:16:02 -0500</pubDate>
+      <guid>https://lordgrilo.github.io/publication/gene-mapper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral and topological analysis of the cortical representation of the head position: does hypnotizability matter?</title>
+      <link>https://lordgrilo.github.io/publication/spectral-topological-hypnosis/</link>
+      <pubDate>Mon, 25 Feb 2019 17:16:02 -0500</pubDate>
+      <guid>https://lordgrilo.github.io/publication/spectral-topological-hypnosis/</guid>
       <description></description>
     </item>
     

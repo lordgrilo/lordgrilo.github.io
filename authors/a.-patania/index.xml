@@ -5,12 +5,20 @@
     <link>https://lordgrilo.github.io/authors/a.-patania/</link>
       <atom:link href="https://lordgrilo.github.io/authors/a.-patania/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Patania</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Dec 2017 01:21:02 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2019 17:16:02 -0500</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>A. Patania</title>
       <link>https://lordgrilo.github.io/authors/a.-patania/</link>
     </image>
+    
+    <item>
+      <title>Topological gene-expression networks recapitulate brain anatomy and function</title>
+      <link>https://lordgrilo.github.io/publication/gene-mapper/</link>
+      <pubDate>Fri, 24 May 2019 17:16:02 -0500</pubDate>
+      <guid>https://lordgrilo.github.io/publication/gene-mapper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Navigating features: a topologically informed chart of electromyographic features space</title>

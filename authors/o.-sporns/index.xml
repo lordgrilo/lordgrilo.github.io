@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Sporns | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/authors/o.-sporns/</link>
+      <atom:link href="https://lordgrilo.github.io/authors/o.-sporns/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Sporns</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 May 2019 14:57:32 -0400</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>O. Sporns</title>
+      <link>https://lordgrilo.github.io/authors/o.-sporns/</link>
+    </image>
+    
+    <item>
+      <title>Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis</title>
+      <link>https://lordgrilo.github.io/publication/dynseur/</link>
+      <pubDate>Sat, 25 May 2019 14:57:32 -0400</pubDate>
+      <guid>https://lordgrilo.github.io/publication/dynseur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

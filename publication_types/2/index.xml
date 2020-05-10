@@ -5,12 +5,36 @@
     <link>https://lordgrilo.github.io/publication_types/2/</link>
       <atom:link href="https://lordgrilo.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2019 15:19:36 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 17:05:56 +0200</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>2</title>
       <link>https://lordgrilo.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Social contagion models on hypergraphs</title>
+      <link>https://lordgrilo.github.io/publication/hypergraph-contagion/</link>
+      <pubDate>Tue, 10 Mar 2020 17:05:56 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/hypergraph-contagion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of the distribution of recovery rates on disease spreading in complex networks</title>
+      <link>https://lordgrilo.github.io/publication/heterogeneous-recovery/</link>
+      <pubDate>Tue, 14 Jan 2020 17:41:48 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/heterogeneous-recovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topology highlights mesoscopic functional equivalence between imagery and perception</title>
+      <link>https://lordgrilo.github.io/publication/perception-imagery/</link>
+      <pubDate>Tue, 15 Oct 2019 17:16:02 -0500</pubDate>
+      <guid>https://lordgrilo.github.io/publication/perception-imagery/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Simplicial Models of social Contagion</title>
@@ -66,14 +90,6 @@
       <link>https://lordgrilo.github.io/publication/sad/</link>
       <pubDate>Thu, 17 May 2018 15:41:14 -0400</pubDate>
       <guid>https://lordgrilo.github.io/publication/sad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Topology highlights mesoscopic functional equivalence between imagery and perception</title>
-      <link>https://lordgrilo.github.io/publication/perception-imagery/</link>
-      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://lordgrilo.github.io/publication/perception-imagery/</guid>
       <description></description>
     </item>
     

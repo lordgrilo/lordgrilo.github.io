@@ -5,7 +5,7 @@
     <link>https://lordgrilo.github.io/authors/l.-campioni/</link>
       <atom:link href="https://lordgrilo.github.io/authors/l.-campioni/index.xml" rel="self" type="application/rss+xml" />
     <description>L. Campioni</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 17:16:02 -0500</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>L. Campioni</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Topology highlights mesoscopic functional equivalence between imagery and perception</title>
       <link>https://lordgrilo.github.io/publication/perception-imagery/</link>
-      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2019 17:16:02 -0500</pubDate>
       <guid>https://lordgrilo.github.io/publication/perception-imagery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral and topological analysis of the cortical representation of the head position: does hypnotizability matter?</title>
+      <link>https://lordgrilo.github.io/publication/spectral-topological-hypnosis/</link>
+      <pubDate>Mon, 25 Feb 2019 17:16:02 -0500</pubDate>
+      <guid>https://lordgrilo.github.io/publication/spectral-topological-hypnosis/</guid>
       <description></description>
     </item>
     

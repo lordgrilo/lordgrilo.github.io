@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. De Gregorio | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/authors/a.-de-gregorio/</link>
+      <atom:link href="https://lordgrilo.github.io/authors/a.-de-gregorio/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. De Gregorio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 18:09:54 +0200</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>A. De Gregorio</title>
+      <link>https://lordgrilo.github.io/authors/a.-de-gregorio/</link>
+    </image>
+    
+    <item>
+      <title>Homological Scaffold via Minimal Homology Bases</title>
+      <link>https://lordgrilo.github.io/publication/minimal-scaffold/</link>
+      <pubDate>Fri, 24 Apr 2020 18:09:54 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/minimal-scaffold/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

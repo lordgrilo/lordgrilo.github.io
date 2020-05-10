@@ -5,12 +5,28 @@
     <link>https://lordgrilo.github.io/tags/tda/</link>
       <atom:link href="https://lordgrilo.github.io/tags/tda/index.xml" rel="self" type="application/rss+xml" />
     <description>TDA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2019 17:16:02 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 18:09:54 +0200</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>TDA</title>
       <link>https://lordgrilo.github.io/tags/tda/</link>
     </image>
+    
+    <item>
+      <title>Homological Scaffold via Minimal Homology Bases</title>
+      <link>https://lordgrilo.github.io/publication/minimal-scaffold/</link>
+      <pubDate>Fri, 24 Apr 2020 18:09:54 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/minimal-scaffold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topology highlights mesoscopic functional equivalence between imagery and perception</title>
+      <link>https://lordgrilo.github.io/publication/perception-imagery/</link>
+      <pubDate>Tue, 15 Oct 2019 17:16:02 -0500</pubDate>
+      <guid>https://lordgrilo.github.io/publication/perception-imagery/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Topological gene-expression networks recapitulate brain anatomy and function</title>
