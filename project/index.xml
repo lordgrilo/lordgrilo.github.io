@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/project/</link>
+      <atom:link href="https://lordgrilo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 May 2019 15:35:17 -0400</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>Projects</title>
+      <link>https://lordgrilo.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Topological Data Analysis</title>
+      <link>https://lordgrilo.github.io/project/tda/</link>
+      <pubDate>Sat, 25 May 2019 15:35:17 -0400</pubDate>
+      <guid>https://lordgrilo.github.io/project/tda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network and Simplicial Dynamics</title>
+      <link>https://lordgrilo.github.io/project/net-dynamics/</link>
+      <pubDate>Sat, 25 May 2019 15:30:52 -0400</pubDate>
+      <guid>https://lordgrilo.github.io/project/net-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological Neuroscience</title>
+      <link>https://lordgrilo.github.io/project/topo-neuro/</link>
+      <pubDate>Sat, 25 May 2019 15:13:03 -0400</pubDate>
+      <guid>https://lordgrilo.github.io/project/topo-neuro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

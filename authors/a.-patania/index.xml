@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Patania | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/authors/a.-patania/</link>
+      <atom:link href="https://lordgrilo.github.io/authors/a.-patania/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Patania</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Dec 2017 01:21:02 +0200</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>A. Patania</title>
+      <link>https://lordgrilo.github.io/authors/a.-patania/</link>
+    </image>
+    
+    <item>
+      <title>Navigating features: a topologically informed chart of electromyographic features space</title>
+      <link>https://lordgrilo.github.io/publication/navigating-features/</link>
+      <pubDate>Wed, 06 Dec 2017 01:21:02 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/navigating-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The shape of collaborations</title>
+      <link>https://lordgrilo.github.io/publication/collabs/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/collabs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of and efficient sampling from the simplicial configuration model</title>
+      <link>https://lordgrilo.github.io/publication/scm/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/scm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological analysis of data [editorial]</title>
+      <link>https://lordgrilo.github.io/publication/topology-editorial/</link>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/topology-editorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

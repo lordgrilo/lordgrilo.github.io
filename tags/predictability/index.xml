@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>predictability | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/tags/predictability/</link>
+      <atom:link href="https://lordgrilo.github.io/tags/predictability/index.xml" rel="self" type="application/rss+xml" />
+    <description>predictability</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>predictability</title>
+      <link>https://lordgrilo.github.io/tags/predictability/</link>
+    </image>
+    
+    <item>
+      <title>On the predictability of infectious disease outbreaks</title>
+      <link>https://lordgrilo.github.io/publication/outbreak/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/outbreak/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mattia Veronese | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/authors/mattia-veronese/</link>
+      <atom:link href="https://lordgrilo.github.io/authors/mattia-veronese/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mattia Veronese</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2019 17:16:02 -0500</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>Mattia Veronese</title>
+      <link>https://lordgrilo.github.io/authors/mattia-veronese/</link>
+    </image>
+    
+    <item>
+      <title>Topological gene-expression networks recapitulate brain anatomy and function</title>
+      <link>https://lordgrilo.github.io/publication/gene-mapper/</link>
+      <pubDate>Fri, 24 May 2019 17:16:02 -0500</pubDate>
+      <guid>https://lordgrilo.github.io/publication/gene-mapper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

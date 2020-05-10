@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. Donato | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/authors/i.-donato/</link>
+      <atom:link href="https://lordgrilo.github.io/authors/i.-donato/index.xml" rel="self" type="application/rss+xml" />
+    <description>I. Donato</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>I. Donato</title>
+      <link>https://lordgrilo.github.io/authors/i.-donato/</link>
+    </image>
+    
+    <item>
+      <title>Persistent homology analysis of phase transitions</title>
+      <link>https://lordgrilo.github.io/publication/phase/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/phase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological strata of weighted complex networks</title>
+      <link>https://lordgrilo.github.io/publication/strata/</link>
+      <pubDate>Fri, 21 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/strata/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

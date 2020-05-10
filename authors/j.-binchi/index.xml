@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Binchi | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/authors/j.-binchi/</link>
+      <atom:link href="https://lordgrilo.github.io/authors/j.-binchi/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Binchi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>J. Binchi</title>
+      <link>https://lordgrilo.github.io/authors/j.-binchi/</link>
+    </image>
+    
+    <item>
+      <title>jHoles: A Tool for Understanding Biological Complex Networks via Clique Weight Rank Persistent Homology</title>
+      <link>https://lordgrilo.github.io/publication/jholes/</link>
+      <pubDate>Thu, 24 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/jholes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

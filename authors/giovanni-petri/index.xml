@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giovanni Petri | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/authors/giovanni-petri/</link>
+      <atom:link href="https://lordgrilo.github.io/authors/giovanni-petri/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giovanni Petri</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2019 15:19:36 -0400</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>Giovanni Petri</title>
+      <link>https://lordgrilo.github.io/authors/giovanni-petri/</link>
+    </image>
+    
+    <item>
+      <title>Simplicial Models of social Contagion</title>
+      <link>https://lordgrilo.github.io/publication/simplagion/</link>
+      <pubDate>Sun, 02 Jun 2019 15:19:36 -0400</pubDate>
+      <guid>https://lordgrilo.github.io/publication/simplagion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis</title>
+      <link>https://lordgrilo.github.io/publication/dynseur/</link>
+      <pubDate>Sat, 25 May 2019 14:57:32 -0400</pubDate>
+      <guid>https://lordgrilo.github.io/publication/dynseur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological gene-expression networks recapitulate brain anatomy and function</title>
+      <link>https://lordgrilo.github.io/publication/gene-mapper/</link>
+      <pubDate>Fri, 24 May 2019 17:16:02 -0500</pubDate>
+      <guid>https://lordgrilo.github.io/publication/gene-mapper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral and topological analysis of the cortical representation of the head position: does hypnotizability matter?</title>
+      <link>https://lordgrilo.github.io/publication/spectral-topological-hypnosis/</link>
+      <pubDate>Mon, 25 Feb 2019 17:16:02 -0500</pubDate>
+      <guid>https://lordgrilo.github.io/publication/spectral-topological-hypnosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of the distribution of recovery rates on disease spreading in complex networks</title>
+      <link>https://lordgrilo.github.io/publication/hetero-rates/</link>
+      <pubDate>Tue, 11 Dec 2018 15:05:34 -0400</pubDate>
+      <guid>https://lordgrilo.github.io/publication/hetero-rates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplicial Activity Driven Model</title>
+      <link>https://lordgrilo.github.io/publication/sad/</link>
+      <pubDate>Thu, 17 May 2018 15:41:14 -0400</pubDate>
+      <guid>https://lordgrilo.github.io/publication/sad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

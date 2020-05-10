@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Delfino | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/authors/m.-delfino/</link>
+      <atom:link href="https://lordgrilo.github.io/authors/m.-delfino/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Delfino</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>M. Delfino</title>
+      <link>https://lordgrilo.github.io/authors/m.-delfino/</link>
+    </image>
+    
+    <item>
+      <title>Unveiling patterns of international communities in a global city using mobile phone data</title>
+      <link>https://lordgrilo.github.io/publication/unveiling/</link>
+      <pubDate>Wed, 29 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/unveiling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

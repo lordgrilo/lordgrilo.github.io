@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Ibañez-Marcelo | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/authors/e.-iba%C3%B1ez-marcelo/</link>
+      <atom:link href="https://lordgrilo.github.io/authors/e.-iba%C3%B1ez-marcelo/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Ibañez-Marcelo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>E. Ibañez-Marcelo</title>
+      <link>https://lordgrilo.github.io/authors/e.-iba%C3%B1ez-marcelo/</link>
+    </image>
+    
+    <item>
+      <title>Topology highlights mesoscopic functional equivalence between imagery and perception</title>
+      <link>https://lordgrilo.github.io/publication/perception-imagery/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/perception-imagery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resting-State fMRI Functional Connectivity: Big Data Preprocessing Pipelines and Topological Data Analysis</title>
+      <link>https://lordgrilo.github.io/publication/bigdata/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/bigdata/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

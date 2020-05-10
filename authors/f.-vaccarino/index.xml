@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Vaccarino | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/authors/f.-vaccarino/</link>
+      <atom:link href="https://lordgrilo.github.io/authors/f.-vaccarino/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Vaccarino</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>F. Vaccarino</title>
+      <link>https://lordgrilo.github.io/authors/f.-vaccarino/</link>
+    </image>
+    
+    <item>
+      <title>The shape of collaborations</title>
+      <link>https://lordgrilo.github.io/publication/collabs/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/collabs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of and efficient sampling from the simplicial configuration model</title>
+      <link>https://lordgrilo.github.io/publication/scm/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/scm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological analysis of data [editorial]</title>
+      <link>https://lordgrilo.github.io/publication/topology-editorial/</link>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/topology-editorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insights into Brain Architectures from the Homological Scaffolds of Functional Connectivity Networks</title>
+      <link>https://lordgrilo.github.io/publication/pss/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/pss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persistent homology analysis of phase transitions</title>
+      <link>https://lordgrilo.github.io/publication/phase/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/phase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homological scaffolds of brain functional networks</title>
+      <link>https://lordgrilo.github.io/publication/scaffolds/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/scaffolds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jHoles: A Tool for Understanding Biological Complex Networks via Clique Weight Rank Persistent Homology</title>
+      <link>https://lordgrilo.github.io/publication/jholes/</link>
+      <pubDate>Thu, 24 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/jholes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological strata of weighted complex networks</title>
+      <link>https://lordgrilo.github.io/publication/strata/</link>
+      <pubDate>Fri, 21 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://lordgrilo.github.io/publication/strata/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TDA | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/tags/tda/</link>
+      <atom:link href="https://lordgrilo.github.io/tags/tda/index.xml" rel="self" type="application/rss+xml" />
+    <description>TDA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2019 17:16:02 -0500</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>TDA</title>
+      <link>https://lordgrilo.github.io/tags/tda/</link>
+    </image>
+    
+    <item>
+      <title>Topological gene-expression networks recapitulate brain anatomy and function</title>
+      <link>https://lordgrilo.github.io/publication/gene-mapper/</link>
+      <pubDate>Fri, 24 May 2019 17:16:02 -0500</pubDate>
+      <guid>https://lordgrilo.github.io/publication/gene-mapper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral and topological analysis of the cortical representation of the head position: does hypnotizability matter?</title>
+      <link>https://lordgrilo.github.io/publication/spectral-topological-hypnosis/</link>
+      <pubDate>Mon, 25 Feb 2019 17:16:02 -0500</pubDate>
+      <guid>https://lordgrilo.github.io/publication/spectral-topological-hypnosis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
