@@ -5,12 +5,22 @@
     <link>https://lordgrilo.github.io/authors/v.-latora/</link>
       <atom:link href="https://lordgrilo.github.io/authors/v.-latora/index.xml" rel="self" type="application/rss+xml" />
     <description>V. Latora</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2019 15:19:36 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 17:34:42 +0200</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>V. Latora</title>
       <link>https://lordgrilo.github.io/authors/v.-latora/</link>
     </image>
+    
+    <item>
+      <title>Networks beyond pairwise interactions: structure and dynamics </title>
+      <link>https://lordgrilo.github.io/publication/beyond/</link>
+      <pubDate>Wed, 03 Jun 2020 17:34:42 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/beyond/</guid>
+      <description>&lt;p&gt;A very nice introductory summary can be found at 
+&lt;a href=&#34;https://iaciac.github.io/post/beyond/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Simplicial Models of social Contagion</title>
