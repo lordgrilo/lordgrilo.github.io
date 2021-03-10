@@ -5,12 +5,20 @@
     <link>https://lordgrilo.github.io/authors/m.-saggar/</link>
       <atom:link href="https://lordgrilo.github.io/authors/m.-saggar/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Saggar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 May 2019 14:57:32 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Feb 2021 19:36:25 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>M. Saggar</title>
       <link>https://lordgrilo.github.io/authors/m.-saggar/</link>
     </image>
+    
+    <item>
+      <title>Simplicial and Topological Descriptions of Human Brain Dynamics</title>
+      <link>https://lordgrilo.github.io/publication/simplicial-embedding/</link>
+      <pubDate>Mon, 08 Feb 2021 19:36:25 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/simplicial-embedding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis</title>

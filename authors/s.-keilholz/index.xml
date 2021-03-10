@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Keilholz | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/authors/s.-keilholz/</link>
+      <atom:link href="https://lordgrilo.github.io/authors/s.-keilholz/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Keilholz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Feb 2021 19:36:25 +0100</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>S. Keilholz</title>
+      <link>https://lordgrilo.github.io/authors/s.-keilholz/</link>
+    </image>
+    
+    <item>
+      <title>Simplicial and Topological Descriptions of Human Brain Dynamics</title>
+      <link>https://lordgrilo.github.io/publication/simplicial-embedding/</link>
+      <pubDate>Mon, 08 Feb 2021 19:36:25 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/simplicial-embedding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
