@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zebrafish | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/tags/zebrafish/</link>
+      <atom:link href="https://lordgrilo.github.io/tags/zebrafish/index.xml" rel="self" type="application/rss+xml" />
+    <description>zebrafish</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Oct 2021 23:50:48 +0100</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>zebrafish</title>
+      <link>https://lordgrilo.github.io/tags/zebrafish/</link>
+    </image>
+    
+    <item>
+      <title>Developmental effects of oxytocin neurons on social affiliation and processing of social information</title>
+      <link>https://lordgrilo.github.io/publication/developmental-social-brain/</link>
+      <pubDate>Wed, 20 Oct 2021 23:50:48 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/developmental-social-brain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

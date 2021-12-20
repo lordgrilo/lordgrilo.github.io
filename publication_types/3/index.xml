@@ -5,12 +5,52 @@
     <link>https://lordgrilo.github.io/publication_types/3/</link>
       <atom:link href="https://lordgrilo.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 18:09:54 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:30:14 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>3</title>
       <link>https://lordgrilo.github.io/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>Multistability, intermittency and hybrid transitions in social contagion models on hypergraphs</title>
+      <link>https://lordgrilo.github.io/publication/hypegraph-multistability/</link>
+      <pubDate>Tue, 21 Dec 2021 00:30:14 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/hypegraph-multistability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting Hodge and Sakaguchi-Kuramoto: a mathematical framework for coupled oscillators on simplicial complexes</title>
+      <link>https://lordgrilo.github.io/publication/hosaku/</link>
+      <pubDate>Mon, 22 Nov 2021 00:22:06 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/hosaku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social and asocial learning in zebrafish are encoded by a shared brain network that is differentially modulated by local activation</title>
+      <link>https://lordgrilo.github.io/publication/social-vs-asocial-learning/</link>
+      <pubDate>Wed, 13 Oct 2021 00:07:21 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/social-vs-asocial-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxytocin regulation of social transmission of fear in zebrafish reveals its evolutionary conserved role in emotional contagion</title>
+      <link>https://lordgrilo.github.io/publication/social-contagion-oxytocin/</link>
+      <pubDate>Wed, 06 Oct 2021 00:16:44 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/social-contagion-oxytocin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs</title>
+      <link>https://lordgrilo.github.io/publication/influential-groups/</link>
+      <pubDate>Fri, 14 May 2021 23:22:28 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/influential-groups/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Homological Scaffold via Minimal Homology Bases</title>

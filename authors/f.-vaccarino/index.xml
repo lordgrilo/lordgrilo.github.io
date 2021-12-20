@@ -5,12 +5,20 @@
     <link>https://lordgrilo.github.io/authors/f.-vaccarino/</link>
       <atom:link href="https://lordgrilo.github.io/authors/f.-vaccarino/index.xml" rel="self" type="application/rss+xml" />
     <description>F. Vaccarino</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 18:09:54 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Oct 2021 23:43:37 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>F. Vaccarino</title>
       <link>https://lordgrilo.github.io/authors/f.-vaccarino/</link>
     </image>
+    
+    <item>
+      <title>The physics of higher-order interactions in complex systems</title>
+      <link>https://lordgrilo.github.io/publication/physics-higher-order-systems/</link>
+      <pubDate>Mon, 04 Oct 2021 23:43:37 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/physics-higher-order-systems/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Homological Scaffold via Minimal Homology Bases</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social contagion | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/tags/social-contagion/</link>
+      <atom:link href="https://lordgrilo.github.io/tags/social-contagion/index.xml" rel="self" type="application/rss+xml" />
+    <description>social contagion</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Oct 2021 00:16:44 +0100</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>social contagion</title>
+      <link>https://lordgrilo.github.io/tags/social-contagion/</link>
+    </image>
+    
+    <item>
+      <title>Oxytocin regulation of social transmission of fear in zebrafish reveals its evolutionary conserved role in emotional contagion</title>
+      <link>https://lordgrilo.github.io/publication/social-contagion-oxytocin/</link>
+      <pubDate>Wed, 06 Oct 2021 00:16:44 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/social-contagion-oxytocin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

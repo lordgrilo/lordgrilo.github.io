@@ -5,12 +5,20 @@
     <link>https://lordgrilo.github.io/authors/j.g.-young/</link>
       <atom:link href="https://lordgrilo.github.io/authors/j.g.-young/index.xml" rel="self" type="application/rss+xml" />
     <description>J.G. Young</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 17:34:42 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jun 2021 23:30:31 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>J.G. Young</title>
       <link>https://lordgrilo.github.io/authors/j.g.-young/</link>
     </image>
+    
+    <item>
+      <title>Hypergraph reconstruction from network data</title>
+      <link>https://lordgrilo.github.io/publication/hypergraph-reconstruction/</link>
+      <pubDate>Tue, 15 Jun 2021 23:30:31 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/hypergraph-reconstruction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Networks beyond pairwise interactions: structure and dynamics </title>

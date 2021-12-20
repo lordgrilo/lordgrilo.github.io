@@ -5,12 +5,44 @@
     <link>https://lordgrilo.github.io/publication_types/2/</link>
       <atom:link href="https://lordgrilo.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Feb 2021 15:19:36 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Oct 2021 23:50:48 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>2</title>
       <link>https://lordgrilo.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Developmental effects of oxytocin neurons on social affiliation and processing of social information</title>
+      <link>https://lordgrilo.github.io/publication/developmental-social-brain/</link>
+      <pubDate>Wed, 20 Oct 2021 23:50:48 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/developmental-social-brain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The physics of higher-order interactions in complex systems</title>
+      <link>https://lordgrilo.github.io/publication/physics-higher-order-systems/</link>
+      <pubDate>Mon, 04 Oct 2021 23:43:37 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/physics-higher-order-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear and Nonlinear Quantitative EEG Analysis during Neutral Hypnosis following an Opened/Closed Eye Paradigm</title>
+      <link>https://lordgrilo.github.io/publication/linear-eeg-hypnosis-analysis/</link>
+      <pubDate>Wed, 04 Aug 2021 23:37:51 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/linear-eeg-hypnosis-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypergraph reconstruction from network data</title>
+      <link>https://lordgrilo.github.io/publication/hypergraph-reconstruction/</link>
+      <pubDate>Tue, 15 Jun 2021 23:30:31 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/hypergraph-reconstruction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Topological limits to the parallel processing capability of network architectures</title>
@@ -97,7 +129,7 @@
     <item>
       <title>On the predictability of infectious disease outbreaks</title>
       <link>https://lordgrilo.github.io/publication/outbreak/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://lordgrilo.github.io/publication/outbreak/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>

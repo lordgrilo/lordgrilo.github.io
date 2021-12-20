@@ -5,12 +5,28 @@
     <link>https://lordgrilo.github.io/authors/y.-moreno/</link>
       <atom:link href="https://lordgrilo.github.io/authors/y.-moreno/index.xml" rel="self" type="application/rss+xml" />
     <description>Y. Moreno</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 17:05:56 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:30:14 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>Y. Moreno</title>
       <link>https://lordgrilo.github.io/authors/y.-moreno/</link>
     </image>
+    
+    <item>
+      <title>Multistability, intermittency and hybrid transitions in social contagion models on hypergraphs</title>
+      <link>https://lordgrilo.github.io/publication/hypegraph-multistability/</link>
+      <pubDate>Tue, 21 Dec 2021 00:30:14 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/hypegraph-multistability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The physics of higher-order interactions in complex systems</title>
+      <link>https://lordgrilo.github.io/publication/physics-higher-order-systems/</link>
+      <pubDate>Mon, 04 Oct 2021 23:43:37 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/physics-higher-order-systems/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Social contagion models on hypergraphs</title>

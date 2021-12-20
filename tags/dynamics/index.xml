@@ -5,12 +5,28 @@
     <link>https://lordgrilo.github.io/tags/dynamics/</link>
       <atom:link href="https://lordgrilo.github.io/tags/dynamics/index.xml" rel="self" type="application/rss+xml" />
     <description>dynamics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 17:05:56 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:30:14 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>dynamics</title>
       <link>https://lordgrilo.github.io/tags/dynamics/</link>
     </image>
+    
+    <item>
+      <title>Multistability, intermittency and hybrid transitions in social contagion models on hypergraphs</title>
+      <link>https://lordgrilo.github.io/publication/hypegraph-multistability/</link>
+      <pubDate>Tue, 21 Dec 2021 00:30:14 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/hypegraph-multistability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs</title>
+      <link>https://lordgrilo.github.io/publication/influential-groups/</link>
+      <pubDate>Fri, 14 May 2021 23:22:28 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/influential-groups/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Social contagion models on hypergraphs</title>

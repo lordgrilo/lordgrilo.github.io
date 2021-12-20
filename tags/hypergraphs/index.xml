@@ -5,12 +5,28 @@
     <link>https://lordgrilo.github.io/tags/hypergraphs/</link>
       <atom:link href="https://lordgrilo.github.io/tags/hypergraphs/index.xml" rel="self" type="application/rss+xml" />
     <description>hypergraphs</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 17:34:42 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jun 2021 23:30:31 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>hypergraphs</title>
       <link>https://lordgrilo.github.io/tags/hypergraphs/</link>
     </image>
+    
+    <item>
+      <title>Hypergraph reconstruction from network data</title>
+      <link>https://lordgrilo.github.io/publication/hypergraph-reconstruction/</link>
+      <pubDate>Tue, 15 Jun 2021 23:30:31 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/hypergraph-reconstruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs</title>
+      <link>https://lordgrilo.github.io/publication/influential-groups/</link>
+      <pubDate>Fri, 14 May 2021 23:22:28 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/influential-groups/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Networks beyond pairwise interactions: structure and dynamics </title>

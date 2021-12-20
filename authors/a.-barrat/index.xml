@@ -5,12 +5,28 @@
     <link>https://lordgrilo.github.io/authors/a.-barrat/</link>
       <atom:link href="https://lordgrilo.github.io/authors/a.-barrat/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Barrat</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2019 15:19:36 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Oct 2021 23:43:37 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>A. Barrat</title>
       <link>https://lordgrilo.github.io/authors/a.-barrat/</link>
     </image>
+    
+    <item>
+      <title>The physics of higher-order interactions in complex systems</title>
+      <link>https://lordgrilo.github.io/publication/physics-higher-order-systems/</link>
+      <pubDate>Mon, 04 Oct 2021 23:43:37 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/physics-higher-order-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs</title>
+      <link>https://lordgrilo.github.io/publication/influential-groups/</link>
+      <pubDate>Fri, 14 May 2021 23:22:28 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/influential-groups/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Simplicial Models of social Contagion</title>

@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brain | [::Topological::Complex::Systems::]</title>
+    <title>brain | [::Topological::Complex::Systems::]</title>
     <link>https://lordgrilo.github.io/tags/brain/</link>
       <atom:link href="https://lordgrilo.github.io/tags/brain/index.xml" rel="self" type="application/rss+xml" />
-    <description>Brain</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2019 17:16:02 -0500</lastBuildDate>
+    <description>brain</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Oct 2021 23:50:48 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
-      <title>Brain</title>
+      <title>brain</title>
       <link>https://lordgrilo.github.io/tags/brain/</link>
     </image>
+    
+    <item>
+      <title>Developmental effects of oxytocin neurons on social affiliation and processing of social information</title>
+      <link>https://lordgrilo.github.io/publication/developmental-social-brain/</link>
+      <pubDate>Wed, 20 Oct 2021 23:50:48 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/developmental-social-brain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear and Nonlinear Quantitative EEG Analysis during Neutral Hypnosis following an Opened/Closed Eye Paradigm</title>
+      <link>https://lordgrilo.github.io/publication/linear-eeg-hypnosis-analysis/</link>
+      <pubDate>Wed, 04 Aug 2021 23:37:51 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/linear-eeg-hypnosis-analysis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Topological gene-expression networks recapitulate brain anatomy and function</title>

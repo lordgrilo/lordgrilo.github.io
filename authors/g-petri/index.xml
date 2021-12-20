@@ -5,7 +5,7 @@
     <link>https://lordgrilo.github.io/authors/g-petri/</link>
       <atom:link href="https://lordgrilo.github.io/authors/g-petri/index.xml" rel="self" type="application/rss+xml" />
     <description>G Petri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>G Petri</title>
@@ -15,7 +15,7 @@
     <item>
       <title>On the predictability of infectious disease outbreaks</title>
       <link>https://lordgrilo.github.io/publication/outbreak/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://lordgrilo.github.io/publication/outbreak/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>

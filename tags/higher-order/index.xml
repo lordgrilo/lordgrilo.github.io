@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>higher-order | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/tags/higher-order/</link>
+      <atom:link href="https://lordgrilo.github.io/tags/higher-order/index.xml" rel="self" type="application/rss+xml" />
+    <description>higher-order</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Oct 2021 23:43:37 +0100</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>higher-order</title>
+      <link>https://lordgrilo.github.io/tags/higher-order/</link>
+    </image>
+    
+    <item>
+      <title>The physics of higher-order interactions in complex systems</title>
+      <link>https://lordgrilo.github.io/publication/physics-higher-order-systems/</link>
+      <pubDate>Mon, 04 Oct 2021 23:43:37 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/physics-higher-order-systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

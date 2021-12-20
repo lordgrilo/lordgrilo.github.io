@@ -5,12 +5,28 @@
     <link>https://lordgrilo.github.io/tags/networks/</link>
       <atom:link href="https://lordgrilo.github.io/tags/networks/index.xml" rel="self" type="application/rss+xml" />
     <description>networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jan 2020 17:41:48 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Oct 2021 23:50:48 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>networks</title>
       <link>https://lordgrilo.github.io/tags/networks/</link>
     </image>
+    
+    <item>
+      <title>Developmental effects of oxytocin neurons on social affiliation and processing of social information</title>
+      <link>https://lordgrilo.github.io/publication/developmental-social-brain/</link>
+      <pubDate>Wed, 20 Oct 2021 23:50:48 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/developmental-social-brain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social and asocial learning in zebrafish are encoded by a shared brain network that is differentially modulated by local activation</title>
+      <link>https://lordgrilo.github.io/publication/social-vs-asocial-learning/</link>
+      <pubDate>Wed, 13 Oct 2021 00:07:21 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/social-vs-asocial-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Impact of the distribution of recovery rates on disease spreading in complex networks</title>

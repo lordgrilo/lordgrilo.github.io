@@ -5,12 +5,20 @@
     <link>https://lordgrilo.github.io/authors/f.-battiston/</link>
       <atom:link href="https://lordgrilo.github.io/authors/f.-battiston/index.xml" rel="self" type="application/rss+xml" />
     <description>F. Battiston</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 17:34:42 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Oct 2021 23:43:37 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>F. Battiston</title>
       <link>https://lordgrilo.github.io/authors/f.-battiston/</link>
     </image>
+    
+    <item>
+      <title>The physics of higher-order interactions in complex systems</title>
+      <link>https://lordgrilo.github.io/publication/physics-higher-order-systems/</link>
+      <pubDate>Mon, 04 Oct 2021 23:43:37 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/physics-higher-order-systems/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Networks beyond pairwise interactions: structure and dynamics </title>
