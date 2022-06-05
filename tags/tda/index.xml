@@ -5,12 +5,20 @@
     <link>https://lordgrilo.github.io/tags/tda/</link>
       <atom:link href="https://lordgrilo.github.io/tags/tda/index.xml" rel="self" type="application/rss+xml" />
     <description>TDA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Oct 2021 23:43:37 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Nov 2021 00:22:06 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>TDA</title>
       <link>https://lordgrilo.github.io/tags/tda/</link>
     </image>
+    
+    <item>
+      <title>Connecting Hodge and Sakaguchi-Kuramoto: a mathematical framework for coupled oscillators on simplicial complexes</title>
+      <link>https://lordgrilo.github.io/publication/higher-order-hoi-ts/</link>
+      <pubDate>Mon, 22 Nov 2021 00:22:06 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/higher-order-hoi-ts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The physics of higher-order interactions in complex systems</title>

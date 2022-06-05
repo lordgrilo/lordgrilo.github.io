@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lordgrilo.github.io/publication_types/3/</loc>
+    <loc>https://lordgrilo.github.io/</loc>
     <lastmod>2021-12-21T00:30:14+01:00</lastmod>
   </url><url>
-    <loc>https://lordgrilo.github.io/</loc>
+    <loc>https://lordgrilo.github.io/publication_types/3/</loc>
     <lastmod>2021-12-21T00:30:14+01:00</lastmod>
   </url><url>
     <loc>https://lordgrilo.github.io/authors/</loc>
@@ -50,13 +50,28 @@
     <loc>https://lordgrilo.github.io/authors/a.-arnaudon/</loc>
     <lastmod>2021-11-22T00:22:06+01:00</lastmod>
   </url><url>
+    <loc>https://lordgrilo.github.io/authors/a.-santoro/</loc>
+    <lastmod>2021-11-22T00:22:06+01:00</lastmod>
+  </url><url>
+    <loc>https://lordgrilo.github.io/publication/higher-order-hoi-ts/</loc>
+    <lastmod>2021-11-22T00:22:06+01:00</lastmod>
+  </url><url>
     <loc>https://lordgrilo.github.io/publication/hosaku/</loc>
+    <lastmod>2021-11-22T00:22:06+01:00</lastmod>
+  </url><url>
+    <loc>https://lordgrilo.github.io/authors/e.-amico/</loc>
+    <lastmod>2021-11-22T00:22:06+01:00</lastmod>
+  </url><url>
+    <loc>https://lordgrilo.github.io/authors/f-battiston/</loc>
     <lastmod>2021-11-22T00:22:06+01:00</lastmod>
   </url><url>
     <loc>https://lordgrilo.github.io/tags/frustration/</loc>
     <lastmod>2021-11-22T00:22:06+01:00</lastmod>
   </url><url>
     <loc>https://lordgrilo.github.io/tags/hodge/</loc>
+    <lastmod>2021-11-22T00:22:06+01:00</lastmod>
+  </url><url>
+    <loc>https://lordgrilo.github.io/tags/multivariate-timeseries/</loc>
     <lastmod>2021-11-22T00:22:06+01:00</lastmod>
   </url><url>
     <loc>https://lordgrilo.github.io/tags/oscillators/</loc>
@@ -75,6 +90,9 @@
     <lastmod>2021-11-22T00:22:06+01:00</lastmod>
   </url><url>
     <loc>https://lordgrilo.github.io/tags/synchronization/</loc>
+    <lastmod>2021-11-22T00:22:06+01:00</lastmod>
+  </url><url>
+    <loc>https://lordgrilo.github.io/tags/tda/</loc>
     <lastmod>2021-11-22T00:22:06+01:00</lastmod>
   </url><url>
     <loc>https://lordgrilo.github.io/publication_types/2/</loc>
@@ -176,9 +194,6 @@
     <loc>https://lordgrilo.github.io/tags/dynamical-systems/</loc>
     <lastmod>2021-10-04T23:43:37+01:00</lastmod>
   </url><url>
-    <loc>https://lordgrilo.github.io/authors/e.-amico/</loc>
-    <lastmod>2021-10-04T23:43:37+01:00</lastmod>
-  </url><url>
     <loc>https://lordgrilo.github.io/authors/f.-battiston/</loc>
     <lastmod>2021-10-04T23:43:37+01:00</lastmod>
   </url><url>
@@ -207,9 +222,6 @@
     <lastmod>2021-10-04T23:43:37+01:00</lastmod>
   </url><url>
     <loc>https://lordgrilo.github.io/authors/t.p.-peixoto/</loc>
-    <lastmod>2021-10-04T23:43:37+01:00</lastmod>
-  </url><url>
-    <loc>https://lordgrilo.github.io/tags/tda/</loc>
     <lastmod>2021-10-04T23:43:37+01:00</lastmod>
   </url><url>
     <loc>https://lordgrilo.github.io/publication/physics-higher-order-systems/</loc>
