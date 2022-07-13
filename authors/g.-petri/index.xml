@@ -5,12 +5,20 @@
     <link>https://lordgrilo.github.io/authors/g.-petri/</link>
       <atom:link href="https://lordgrilo.github.io/authors/g.-petri/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Petri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:30:14 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 00:22:06 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>G. Petri</title>
       <link>https://lordgrilo.github.io/authors/g.-petri/</link>
     </image>
+    
+    <item>
+      <title>Unveiling the higher-order organization of multivariate time series</title>
+      <link>https://lordgrilo.github.io/publication/higher-order-hoi-ts/</link>
+      <pubDate>Tue, 22 Mar 2022 00:22:06 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/higher-order-hoi-ts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multistability, intermittency and hybrid transitions in social contagion models on hypergraphs</title>
@@ -25,14 +33,6 @@
       <link>https://lordgrilo.github.io/publication/hosaku/</link>
       <pubDate>Mon, 22 Nov 2021 00:22:06 +0100</pubDate>
       <guid>https://lordgrilo.github.io/publication/hosaku/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unveiling the higher-order organization of multivariate time series</title>
-      <link>https://lordgrilo.github.io/publication/higher-order-hoi-ts/</link>
-      <pubDate>Mon, 22 Nov 2021 00:22:06 +0100</pubDate>
-      <guid>https://lordgrilo.github.io/publication/higher-order-hoi-ts/</guid>
       <description></description>
     </item>
     
