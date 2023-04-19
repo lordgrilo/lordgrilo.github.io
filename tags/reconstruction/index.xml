@@ -5,12 +5,20 @@
     <link>https://lordgrilo.github.io/tags/reconstruction/</link>
       <atom:link href="https://lordgrilo.github.io/tags/reconstruction/index.xml" rel="self" type="application/rss+xml" />
     <description>reconstruction</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jun 2021 23:30:31 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Feb 2023 15:24:23 +0200</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>reconstruction</title>
       <link>https://lordgrilo.github.io/tags/reconstruction/</link>
     </image>
+    
+    <item>
+      <title>Effective Higher-Order Link Prediction and Reconstruction From Simplicial Complex Embeddings</title>
+      <link>https://lordgrilo.github.io/publication/simplex2vec/</link>
+      <pubDate>Thu, 09 Feb 2023 15:24:23 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/simplex2vec/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hypergraph reconstruction from network data</title>
