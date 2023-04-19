@@ -5,7 +5,7 @@
     <link>https://lordgrilo.github.io/tags/tda/</link>
       <atom:link href="https://lordgrilo.github.io/tags/tda/index.xml" rel="self" type="application/rss+xml" />
     <description>TDA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 00:22:06 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:22:06 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>TDA</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Unveiling the higher-order organization of multivariate time series</title>
+      <title>Higher-order organization of multivariate time series</title>
       <link>https://lordgrilo.github.io/publication/higher-order-hoi-ts/</link>
-      <pubDate>Tue, 22 Mar 2022 00:22:06 +0100</pubDate>
+      <pubDate>Mon, 02 Jan 2023 00:22:06 +0100</pubDate>
       <guid>https://lordgrilo.github.io/publication/higher-order-hoi-ts/</guid>
       <description></description>
     </item>

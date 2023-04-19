@@ -5,7 +5,7 @@
     <link>https://lordgrilo.github.io/publication_types/3/</link>
       <atom:link href="https://lordgrilo.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 00:22:06 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Mar 2023 00:16:44 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>3</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Unveiling the higher-order organization of multivariate time series</title>
-      <link>https://lordgrilo.github.io/publication/higher-order-hoi-ts/</link>
-      <pubDate>Tue, 22 Mar 2022 00:22:06 +0100</pubDate>
-      <guid>https://lordgrilo.github.io/publication/higher-order-hoi-ts/</guid>
+      <title>Evolutionarily conserved role of oxytocin in social fear contagion in zebrafish</title>
+      <link>https://lordgrilo.github.io/publication/social-contagion-oxytocin/</link>
+      <pubDate>Thu, 23 Mar 2023 00:16:44 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/social-contagion-oxytocin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multistability, intermittency and hybrid transitions in social contagion models on hypergraphs</title>
       <link>https://lordgrilo.github.io/publication/hypegraph-multistability/</link>
-      <pubDate>Tue, 21 Dec 2021 00:30:14 +0100</pubDate>
+      <pubDate>Mon, 13 Mar 2023 00:30:14 +0100</pubDate>
       <guid>https://lordgrilo.github.io/publication/hypegraph-multistability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher-order organization of multivariate time series</title>
+      <link>https://lordgrilo.github.io/publication/higher-order-hoi-ts/</link>
+      <pubDate>Mon, 02 Jan 2023 00:22:06 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/higher-order-hoi-ts/</guid>
       <description></description>
     </item>
     
@@ -41,14 +49,6 @@
       <link>https://lordgrilo.github.io/publication/social-vs-asocial-learning/</link>
       <pubDate>Wed, 13 Oct 2021 00:07:21 +0100</pubDate>
       <guid>https://lordgrilo.github.io/publication/social-vs-asocial-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oxytocin regulation of social transmission of fear in zebrafish reveals its evolutionary conserved role in emotional contagion</title>
-      <link>https://lordgrilo.github.io/publication/social-contagion-oxytocin/</link>
-      <pubDate>Wed, 06 Oct 2021 00:16:44 +0100</pubDate>
-      <guid>https://lordgrilo.github.io/publication/social-contagion-oxytocin/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://lordgrilo.github.io/tags/social-behaviour/</link>
       <atom:link href="https://lordgrilo.github.io/tags/social-behaviour/index.xml" rel="self" type="application/rss+xml" />
     <description>social behaviour</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 00:07:21 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Mar 2023 00:16:44 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>social behaviour</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Social and asocial learning in zebrafish are encoded by a shared brain network that is differentially modulated by local activation</title>
-      <link>https://lordgrilo.github.io/publication/social-vs-asocial-learning/</link>
-      <pubDate>Wed, 13 Oct 2021 00:07:21 +0100</pubDate>
-      <guid>https://lordgrilo.github.io/publication/social-vs-asocial-learning/</guid>
+      <title>Evolutionarily conserved role of oxytocin in social fear contagion in zebrafish</title>
+      <link>https://lordgrilo.github.io/publication/social-contagion-oxytocin/</link>
+      <pubDate>Thu, 23 Mar 2023 00:16:44 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/social-contagion-oxytocin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Oxytocin regulation of social transmission of fear in zebrafish reveals its evolutionary conserved role in emotional contagion</title>
-      <link>https://lordgrilo.github.io/publication/social-contagion-oxytocin/</link>
-      <pubDate>Wed, 06 Oct 2021 00:16:44 +0100</pubDate>
-      <guid>https://lordgrilo.github.io/publication/social-contagion-oxytocin/</guid>
+      <title>Social and asocial learning in zebrafish are encoded by a shared brain network that is differentially modulated by local activation</title>
+      <link>https://lordgrilo.github.io/publication/social-vs-asocial-learning/</link>
+      <pubDate>Wed, 13 Oct 2021 00:07:21 +0100</pubDate>
+      <guid>https://lordgrilo.github.io/publication/social-vs-asocial-learning/</guid>
       <description></description>
     </item>
     
