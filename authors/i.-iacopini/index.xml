@@ -5,12 +5,20 @@
     <link>https://lordgrilo.github.io/authors/i.-iacopini/</link>
       <atom:link href="https://lordgrilo.github.io/authors/i.-iacopini/index.xml" rel="self" type="application/rss+xml" />
     <description>I. Iacopini</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Oct 2021 23:43:37 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 14:15:51 +0200</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>I. Iacopini</title>
       <link>https://lordgrilo.github.io/authors/i.-iacopini/</link>
     </image>
+    
+    <item>
+      <title>Hyper-cores promote localization and efficient seeding in higher-order processes</title>
+      <link>https://lordgrilo.github.io/publication/hypercores/</link>
+      <pubDate>Tue, 10 Jan 2023 14:15:51 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/hypercores/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The physics of higher-order interactions in complex systems</title>
