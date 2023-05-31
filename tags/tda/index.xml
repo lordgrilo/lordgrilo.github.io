@@ -5,12 +5,20 @@
     <link>https://lordgrilo.github.io/tags/tda/</link>
       <atom:link href="https://lordgrilo.github.io/tags/tda/index.xml" rel="self" type="application/rss+xml" />
     <description>TDA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:22:06 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 May 2023 01:42:20 +0200</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>TDA</title>
       <link>https://lordgrilo.github.io/tags/tda/</link>
     </image>
+    
+    <item>
+      <title>A unified framework for Simplicial Kuramoto models</title>
+      <link>https://lordgrilo.github.io/publication/simplicial-kuramoto-review/</link>
+      <pubDate>Wed, 31 May 2023 01:42:20 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/simplicial-kuramoto-review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Higher-order organization of multivariate time series</title>

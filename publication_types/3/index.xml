@@ -5,12 +5,20 @@
     <link>https://lordgrilo.github.io/publication_types/3/</link>
       <atom:link href="https://lordgrilo.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Mar 2023 00:16:44 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 May 2023 01:42:20 +0200</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>3</title>
       <link>https://lordgrilo.github.io/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>A unified framework for Simplicial Kuramoto models</title>
+      <link>https://lordgrilo.github.io/publication/simplicial-kuramoto-review/</link>
+      <pubDate>Wed, 31 May 2023 01:42:20 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/simplicial-kuramoto-review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evolutionarily conserved role of oxytocin in social fear contagion in zebrafish</title>

@@ -5,12 +5,20 @@
     <link>https://lordgrilo.github.io/authors/p.-expert/</link>
       <atom:link href="https://lordgrilo.github.io/authors/p.-expert/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Expert</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Aug 2022 00:22:06 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 May 2023 01:42:20 +0200</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
       <title>P. Expert</title>
       <link>https://lordgrilo.github.io/authors/p.-expert/</link>
     </image>
+    
+    <item>
+      <title>A unified framework for Simplicial Kuramoto models</title>
+      <link>https://lordgrilo.github.io/publication/simplicial-kuramoto-review/</link>
+      <pubDate>Wed, 31 May 2023 01:42:20 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/simplicial-kuramoto-review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Connecting Hodge and Sakaguchi-Kuramoto: a mathematical framework for coupled oscillators on simplicial complexes</title>

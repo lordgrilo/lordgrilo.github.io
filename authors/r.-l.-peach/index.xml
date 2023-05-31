@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. L. Peach | [::Topological::Complex::Systems::]</title>
+    <link>https://lordgrilo.github.io/authors/r.-l.-peach/</link>
+      <atom:link href="https://lordgrilo.github.io/authors/r.-l.-peach/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. L. Peach</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 May 2023 01:42:20 +0200</lastBuildDate>
+    <image>
+      <url>https://lordgrilo.github.io/img/logo.png</url>
+      <title>R. L. Peach</title>
+      <link>https://lordgrilo.github.io/authors/r.-l.-peach/</link>
+    </image>
+    
+    <item>
+      <title>A unified framework for Simplicial Kuramoto models</title>
+      <link>https://lordgrilo.github.io/publication/simplicial-kuramoto-review/</link>
+      <pubDate>Wed, 31 May 2023 01:42:20 +0200</pubDate>
+      <guid>https://lordgrilo.github.io/publication/simplicial-kuramoto-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
