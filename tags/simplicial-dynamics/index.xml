@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>simplicial dynamics | [::Topological::Complex::Systems::]</title>
+    <title>Simplicial Dynamics | [::Topological::Complex::Systems::]</title>
     <link>https://lordgrilo.github.io/tags/simplicial-dynamics/</link>
       <atom:link href="https://lordgrilo.github.io/tags/simplicial-dynamics/index.xml" rel="self" type="application/rss+xml" />
-    <description>simplicial dynamics</description>
+    <description>Simplicial Dynamics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:22:06 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
-      <title>simplicial dynamics</title>
+      <title>Simplicial Dynamics</title>
       <link>https://lordgrilo.github.io/tags/simplicial-dynamics/</link>
     </image>
     

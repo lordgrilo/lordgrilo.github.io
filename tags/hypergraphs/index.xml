@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hypergraphs | [::Topological::Complex::Systems::]</title>
+    <title>Hypergraphs | [::Topological::Complex::Systems::]</title>
     <link>https://lordgrilo.github.io/tags/hypergraphs/</link>
       <atom:link href="https://lordgrilo.github.io/tags/hypergraphs/index.xml" rel="self" type="application/rss+xml" />
-    <description>hypergraphs</description>
+    <description>Hypergraphs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jun 2021 23:30:31 +0100</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
-      <title>hypergraphs</title>
+      <title>Hypergraphs</title>
       <link>https://lordgrilo.github.io/tags/hypergraphs/</link>
     </image>
     

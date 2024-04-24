@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>persistent homology | [::Topological::Complex::Systems::]</title>
+    <title>Persistent Homology | [::Topological::Complex::Systems::]</title>
     <link>https://lordgrilo.github.io/tags/persistent-homology/</link>
       <atom:link href="https://lordgrilo.github.io/tags/persistent-homology/index.xml" rel="self" type="application/rss+xml" />
-    <description>persistent homology</description>
+    <description>Persistent Homology</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 18:09:54 +0200</lastBuildDate>
     <image>
       <url>https://lordgrilo.github.io/img/logo.png</url>
-      <title>persistent homology</title>
+      <title>Persistent Homology</title>
       <link>https://lordgrilo.github.io/tags/persistent-homology/</link>
     </image>
     
