@@ -55,7 +55,22 @@ main { position: relative; z-index: 1; pointer-events: none; max-width: 1600px; 
 .hero h1 { font-size: clamp(68px, 8.5vw, 132px); line-height: 0.88; font-weight: 600; margin: 0 0 26px -3px; }
 .question { font: 500 clamp(28px, 2.8vw, 42px)/1.15 var(--display); color: var(--accent); margin-bottom: 22px; }
 .lead { font-size: 19px; line-height: 1.6; max-width: 33em; }
-.role { font-size: 13px; color: var(--subtle); margin-top: 24px; }
+.role { font-size: 13px; line-height: 1.75; color: var(--subtle); margin-top: 24px; margin-bottom: 0; }
+/* Affiliation logos in one row, one colour, optically balanced: each logo
+   has its own height so they carry similar weight, centred on one line.
+   The NPL mark is the lab's own bracketed lockup (from nplresearch.github.io);
+   the NetSI and CETI logos are one-colour local versions of their official
+   files, used as masks so they take the text colour. The row repeats the
+   links above, so it is hidden from assistive technology. */
+.affil-logos { display: flex; align-items: center; gap: 44px; margin-top: 22px; }
+.affil-logos a { display: block; line-height: 0; }
+.logo { display: block; }
+.logo-npl { height: 40px; width: auto; fill: var(--muted); transition: fill 0.2s ease; }
+.logo-mask { background-color: var(--muted); transition: background-color 0.2s ease; -webkit-mask-repeat: no-repeat; mask-repeat: no-repeat; -webkit-mask-size: contain; mask-size: contain; -webkit-mask-position: center; mask-position: center; }
+.logo-netsi { height: 29px; aspect-ratio: 766 / 120; -webkit-mask-image: url("logo-netsi.png"); mask-image: url("logo-netsi.png"); }
+.logo-ceti { height: 33px; aspect-ratio: 156.11 / 46.72; -webkit-mask-image: url("logo-ceti.svg"); mask-image: url("logo-ceti.svg"); }
+.affil-logos a:hover .logo-npl { fill: var(--accent); }
+.affil-logos a:hover .logo-mask { background-color: var(--accent); }
 .hero-links { display: flex; gap: 28px; margin-top: 32px; font-size: 13px; }
 .hero-links a { text-decoration: none; }
 .hero-links span { color: var(--accent); margin-left: 8px; }
@@ -172,6 +187,10 @@ main { position: relative; z-index: 1; pointer-events: none; max-width: 1600px; 
   body { font-size: 16px; }
   .bar { display: flex; flex-direction: column; align-items: flex-start; justify-content: center; gap: 10px; padding: 12px 20px 9px; }
   .who { font-size: 21px; }
+  .affil-logos { gap: 22px; }
+  .logo-npl { height: 31px; }
+  .logo-netsi { height: 22px; }
+  .logo-ceti { height: 25px; }
   .menu { width: 100%; max-width: 480px; justify-content: space-between; }
   .menu a { font-size: 12px; padding: 10px 8px; }
   .menu-mark { top: 7px; bottom: 7px; }
@@ -181,7 +200,6 @@ main { position: relative; z-index: 1; pointer-events: none; max-width: 1600px; 
   .hero .eyebrow { font-size: 9px; letter-spacing: 0.08em; margin-bottom: 26px; }
   .question { font-size: clamp(29px, 5vw, 37px); max-width: 15em; }
   .lead { font-size: 17px; }
-  .role { font-size: 12px; }
   .hero-links { margin-top: 28px; }
   .q { min-height: 480px; }
   .q1 { padding-right: 48px; }
