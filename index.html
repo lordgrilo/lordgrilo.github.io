@@ -5,143 +5,155 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="dark">
   <title>Giovanni Petri — Structure, cognition, collectives</title>
-  <meta name="description" content="Giovanni Petri studies how the structure of interactions shapes what systems can learn, do, and become together. Professor of Network Science at Northeastern University London and head of NPLab.">
+  <meta name="description" content="Giovanni Petri, Professor of Network Science at Northeastern University London: the limits of information processing in brains, machines and collectives.">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="preload" href="fonts/rajdhani-semibold.ttf" as="font" type="font/ttf" crossorigin>
-  <link rel="stylesheet" href="site.css?v=14">
-  <script src="site-config.js?v=14" defer></script>
-  <script src="viz/field.js?v=14" defer></script>
-  <script src="viz/sigil.js?v=14" defer></script>
-  <script src="viz/spins.js?v=14" defer></script>
-  <script src="site.js?v=14" defer></script>
+  <link rel="stylesheet" href="site.css?v=15">
+  <script src="works.js?v=8" defer></script>
+  <script src="map-section.js?v=7" defer></script>
+  <script src="engine.js?v=17" defer></script>
+  <script src="scenes.js?v=30" defer></script>
+  <script src="site.js?v=15" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
-  <header class="site-header wrap">
-    <a class="signature" href="#main" aria-label="Giovanni Petri, home"><span class="bracket">[</span> gp<span class="signature-period">.</span> <span class="bracket">]</span></a>
-    <nav aria-label="Main navigation">
-      <a href="#questions">Questions</a>
-      <a href="#talks">Talks</a>
-      <a href="#work">Research</a>
-      <a href="#about">About</a>
-      <a class="lab-link" href="https://nplresearch.github.io/" target="_blank" rel="noopener">NPLab <span aria-hidden="true">↗</span></a>
+  <canvas id="medium" aria-hidden="true"></canvas>
+
+  <header class="bar">
+    <a class="who" href="#hero">Giovanni Petri</a>
+    <nav class="menu" aria-label="Sections">
+      <a href="#hero" data-sec="hero">Intro</a>
+      <a href="#q1" data-sec="q1 q2 q3">Questions</a>
+      <a href="#map" data-sec="map">Work</a>
+      <a href="#talks" data-sec="talks">Talks</a>
+      <a href="#about" data-sec="about">About</a>
+      <a href="#contact" data-sec="contact">Contact</a>
+      <span class="menu-mark" aria-hidden="true"></span>
     </nav>
+    <p class="state" aria-hidden="true"><span>Field</span> <b id="regime-label">Pairs only</b></p>
+    <div class="progress" aria-hidden="true"><i></i></div>
   </header>
 
-  <main id="main">
-    <section class="hero wrap" aria-labelledby="name">
-      <div class="hero-copy">
-        <p class="eyebrow">Structure / Cognition / Collectives</p>
-        <h1 id="name">Giovanni <br><em>Petri.</em></h1>
-        <p class="hero-question">What does structure <br>make possible?</p>
-        <p class="hero-intro">I study how the organisation of interactions shapes what systems can learn, do, and become together.</p>
-        <div class="hero-actions"><a class="text-link hero-cta" href="#questions">Follow the questions <span aria-hidden="true">↓</span></a><a class="text-link" href="#talks">Watch a conversation <span aria-hidden="true">↗</span></a></div>
+  <main id="main" tabindex="-1">
+    <section id="hero" class="sec hero" data-scene="field" aria-labelledby="name">
+      <div class="island hero-card" data-island>
+        <p class="eyebrow">Network science · Cognition · Collectives</p>
+        <h1 id="name">Giovanni Petri</h1>
+        <p class="question">What does structure make possible?</p>
+        <p class="lead">I study the limits of information processing in brains, machines and collectives: what shared structure lets them do, and what it costs.</p>
+        <p class="role">Professor at Northeastern University London.<br>Head of <a href="https://nplresearch.github.io/" target="_blank" rel="noopener">NPLab</a>.</p>
+        <div class="hero-links"><a href="#map">Selected work <span aria-hidden="true">↘</span></a><a href="#talks">Conversations <span aria-hidden="true">↘</span></a></div>
       </div>
-      <figure class="topology" aria-labelledby="figure-title" aria-describedby="figure-caption">
-        <div class="figure-header"><span class="eyebrow" id="figure-title">Fig. 1 / A shape, two readings</span><div class="viz-switch" role="group" aria-label="Choose a figure" hidden><button type="button" data-viz-tab="field" aria-pressed="false">field</button><button type="button" data-viz-tab="sigil" aria-pressed="false">sigil</button><button type="button" data-viz-tab="spins" aria-pressed="false">spins</button></div></div>
-        <div class="topology-stage">
-          <img class="topology-fallback" src="torus.svg?v=2" alt="A triangulated torus: vertices joined by edges and triangular faces." width="640" height="640">
-          <canvas id="topology-canvas" aria-hidden="true"></canvas>
-          <svg class="stage-frame" viewBox="0 0 100 100" aria-hidden="true"><line x1="50" y1="2" x2="50" y2="98"/><path d="M48.8 5 50 2 51.2 5M48.8 95 50 98 51.2 95"/><circle cx="50" cy="50" r="31"/></svg>
-          <span class="figure-hud" id="figure-hud" aria-hidden="true">x →
-y ↗
-z ↑</span>
+    </section>
+
+    <section id="q1" class="sec q q1" data-scene="contagion" aria-labelledby="question-structure">
+      <div class="island" data-island>
+        <p class="marker"><span>01</span> Structure</p>
+        <h2 id="question-structure">When does the whole<br class="desktop-break"> change the rules?</h2>
+        <p>Some interactions only make sense in groups. I use topology and statistical physics to understand what becomes possible when we look beyond pairs.</p>
+        <a class="work-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6554271/" target="_blank" rel="noopener"><span>Simplicial models of social contagion <span aria-hidden="true">↗</span></span><small>Nature Communications · 2019</small></a>
+      </div>
+    </section>
+
+    <section id="q2" class="sec q q2" data-scene="rnn" aria-labelledby="question-cognition">
+      <div class="island" data-island>
+        <p class="marker"><span>02</span> Cognition</p>
+        <h2 id="question-cognition">What is the cost<br class="desktop-break"> of sharing?</h2>
+        <p>Shared representations let us generalise. They can also make tasks interfere. I study the limits this tension places on brains and artificial learning systems.</p>
+        <a class="work-link" href="https://openreview.net/forum?id=ZF0xRAdsuY" target="_blank" rel="noopener"><span>Bound by semanticity <span aria-hidden="true">↗</span></span><small>ICLR · 2026</small></a>
+      </div>
+    </section>
+
+    <section id="q3" class="sec q3" data-scene="flock" aria-labelledby="question-collectives">
+      <div class="island collective-copy" data-island>
+        <p class="marker"><span>03</span> Collectives</p>
+        <h2 id="question-collectives">How do many minds<br class="desktop-break"> act together?</h2>
+        <p>Collective behaviour depends on what individuals can sense, share and coordinate. The same question runs from neurons to societies.</p>
+        <a class="work-link" href="https://doi.org/10.1126/science.ady9280" target="_blank" rel="noopener"><span>Cooperation during a sperm whale birth <span aria-hidden="true">↗</span></span><small>Science · 2026</small></a>
+      </div>
+      <dl class="island domains" data-island>
+        <div><dt>Neurons</dt><dd>Firing together. Sharing the load.</dd></div>
+        <div><dt>People</dt><dd>Ideas taking hold in groups.</dd></div>
+        <div><dt>Language models</dt><dd>Talking to one another, and to us.</dd></div>
+        <div><dt>Sperm whales</dt><dd>Shared calls, dives and births.</dd></div>
+      </dl>
+    </section>
+
+    <section id="map" class="sec map-sec" data-scene="dust" aria-labelledby="work-heading">
+      <div class="island map-copy" data-island>
+        <p class="marker">Selected work</p>
+        <h2 id="work-heading">Across the questions</h2>
+        <p>Papers and conversations across structure, cognition and collective behaviour.</p>
+        <div class="readout" id="readout" aria-live="polite" aria-atomic="true">
+          <p class="r-kind">Paper · ICLR · 2026</p>
+          <h3>Bound by semanticity: universal laws governing the generalization-identification tradeoff</h3>
+          <p class="r-who">M. Nurisso et al.</p>
+          <p class="r-note">Finite semantic resolution forces a trade-off between generalising and telling things apart.</p>
+          <a class="r-open" href="https://openreview.net/forum?id=ZF0xRAdsuY" target="_blank" rel="noopener">Read the paper ↗</a>
         </div>
-        <figcaption id="figure-caption">
-          <div><span class="figure-name" id="figure-name">A simplicial torus</span><p id="representation-caption" aria-live="polite">Edges connect pairs. Faces join triples.</p></div>
-          <div class="figure-controls" hidden>
-            <div class="representation-control" role="group" aria-label="Choose which interactions to show">
-              <button type="button" data-view="pairs" aria-pressed="false">Edges</button>
-              <button type="button" data-view="groups" aria-pressed="true">Faces</button>
-            </div>
-            <button class="motion-control" type="button" id="motion-toggle" aria-label="Pause animation">Pause</button>
-          </div>
-        </figcaption>
+      </div>
+      <figure class="map-fig" data-island>
+        <svg id="map-svg" viewBox="0 0 1000 900" role="group" aria-label="Explore selected work across structure, cognition and collectives"></svg>
+        <figcaption><span><i class="glyph paper" aria-hidden="true"></i>Paper</span><span><i class="glyph talk" aria-hidden="true"></i>Talk</span><span><i class="glyph conversation" aria-hidden="true"></i>Conversation</span><span class="map-hint">Select a mark to explore.</span></figcaption>
       </figure>
-      <div class="hero-footnote"><span>Professor of Network Science <br><a href="https://www.networkscienceinstitute.org/people/giovanni-petri" target="_blank" rel="noopener">Northeastern University London <span aria-hidden="true">↗</span></a></span><span class="hero-footnote-right">Thinking across scales. <br>Working with <a href="https://nplresearch.github.io/" target="_blank" rel="noopener">NPLab <span aria-hidden="true">↗</span></a></span></div>
+      <details class="island map-list" data-island>
+        <summary>Browse selected work <span class="expand" aria-hidden="true">+</span></summary>
+        <ol id="map-list"></ol>
+        <p class="more"><a href="https://scholar.google.co.uk/citations?user=jb__2PIAAAAJ&amp;hl=en" target="_blank" rel="noopener">All papers on Google Scholar ↗</a><a href="https://nplresearch.github.io/#/publications" target="_blank" rel="noopener">Lab publications ↗</a></p>
+      </details>
     </section>
 
-    <section id="questions" class="questions section wrap" aria-labelledby="questions-title">
-      <div class="section-heading"><p class="eyebrow">01 / Questions</p><h2 id="questions-title">Different systems. <br><em>Recurring questions.</em></h2></div>
-      <div class="question-grid">
-        <article class="question"><span class="question-number">[ 01 ]</span><h3>When does the whole <br>change the rules?</h3><p>Some interactions only make sense in groups. I use topology and statistical physics to understand what becomes possible when we look beyond pairs.</p><a class="text-link" href="#work-structure">Structure &amp; collective dynamics <span aria-hidden="true">↗</span></a></article>
-        <article class="question"><span class="question-number">[ 02 ]</span><h3>What is the cost <br>of sharing?</h3><p>Shared representations let us generalise. They can also make tasks interfere. I study the limits this tension places on brains and artificial learning systems.</p><a class="text-link" href="#work-representation">Representation &amp; learning <span aria-hidden="true">↗</span></a></article>
-        <article class="question"><span class="question-number">[ 03 ]</span><h3>How do many minds <br>act together?</h3><p>Collective behaviour depends on what individuals can sense, share, and coordinate. This question takes me from social systems to sperm whales, through Project CETI.</p><a class="text-link" href="#work-collectives">Communication &amp; coordination <span aria-hidden="true">↗</span></a></article>
+    <section id="talks" class="sec talks" data-scene="waves" aria-labelledby="talks-heading">
+      <div class="island talk-list" data-island>
+        <p class="marker">Out loud</p>
+        <h2 id="talks-heading">Talks &amp; conversations</h2>
+        <ul>
+          <li><a href="https://www.radiopopolare.it/puntata/popolare-armadillo/armadillo_24_09_2026_12_48" target="_blank" rel="noopener">Listening to sperm whales <span aria-hidden="true">↗</span></a><span>Radio Popolare · 2026 · Italian</span></li>
+          <li><a href="https://www.ilpost.it/podcasts/sonar/4-cose-dellaltro-mondo" target="_blank" rel="noopener">Cose dell’altro mondo <span aria-hidden="true">↗</span></a><span>Il Post, Sonar · 2024 · Italian</span></li>
+          <li><a href="https://www.youtube.com/watch?v=5mTLXb069aA" target="_blank" rel="noopener">Informational and topological signatures of individuality <span aria-hidden="true">↗</span></a><span>IPAM, UCLA · 2024</span></li>
+          <li><a href="https://www.youtube.com/watch?v=rY8fUhDpSyM" target="_blank" rel="noopener">Bridging cognitive control and network theory <span aria-hidden="true">↗</span></a><span>CC&amp;B, University of Milan · 2021</span></li>
+        </ul>
       </div>
-    </section>
-
-    <section id="talks" class="talks section wrap" aria-labelledby="talks-title">
-      <div class="section-heading work-heading">
-        <div><p class="eyebrow">02 / Talks &amp; conversations</p><h2 id="talks-title">Thinking <br><em>out loud.</em></h2></div>
-        <p class="section-aside">Conversations for curious listeners. <br>Lectures for a closer look at the science.</p>
-      </div>
-      <article class="featured-conversation">
-        <a class="conversation-image" href="https://www.youtube.com/watch?v=DUlJAXc3h0g" aria-label="Watch the SYNAPSE conversation with Shoma Chaudhury, 26 minutes" target="_blank" rel="noopener">
-          <img src="https://i.ytimg.com/vi/DUlJAXc3h0g/hqdefault.jpg" alt="Giovanni Petri’s conversation at SYNAPSE, from the official recording" width="480" height="360" loading="lazy" referrerpolicy="no-referrer">
-          <span class="play-control" aria-hidden="true">▶</span>
-          <span class="recording-duration">26:14</span>
+      <article class="island talk-feature" data-island>
+        <a class="thumb" href="https://www.youtube.com/watch?v=DUlJAXc3h0g" aria-label="Watch Giovanni Petri in conversation with Shoma Chaudhury at SYNAPSE" target="_blank" rel="noopener">
+          <img src="https://i.ytimg.com/vi/DUlJAXc3h0g/hq3.jpg" alt="Giovanni Petri and Shoma Chaudhury on stage at SYNAPSE" width="480" height="360" loading="lazy" referrerpolicy="no-referrer">
+          <span class="play" aria-hidden="true">↗</span>
         </a>
-        <div class="conversation-copy">
-          <p class="eyebrow">Featured conversation / SYNAPSE 2025</p>
-          <h3>Can we understand <br>another species?</h3>
-          <p>With Shoma Chaudhury on sperm whale communication, the role of AI, and the ethics of listening in on other lives.</p>
-          <a class="text-link" href="https://www.youtube.com/watch?v=DUlJAXc3h0g" target="_blank" rel="noopener">Watch the conversation <span aria-hidden="true">↗</span></a>
-          <a class="source-link" href="https://synapseconclave.com/2025/session_details/50" target="_blank" rel="noopener">Session details</a>
-        </div>
+        <p class="feature-meta">SYNAPSE · 2025 <span>26 min</span></p>
+        <h3><a href="https://www.youtube.com/watch?v=DUlJAXc3h0g" target="_blank" rel="noopener">Can we understand another species?</a></h3>
+        <p>With Shoma Chaudhury, on sperm whale communication, AI, and the ethics of listening in on other lives.</p>
       </article>
-      <div class="recording-grid">
-        <article class="recording">
-          <p class="eyebrow">Radio / In Italian / 2026</p>
-          <h3>Listening to <br>sperm whales</h3>
-          <p>On Project CETI and the search for meaning in sperm whale communication, on <span lang="it">Considera l’armadillo</span>.</p>
-          <div class="recording-footer"><span>Radio Popolare · 24 September</span><a class="text-link" href="https://www.radiopopolare.it/puntata/popolare-armadillo/armadillo_24_09_2026_12_48" target="_blank" rel="noopener">Listen to the interview <span aria-hidden="true">↗</span></a></div>
-        </article>
-        <article class="recording">
-          <p class="eyebrow">Podcast / In Italian / 2024</p>
-          <h3>How language builds reality, underwater too</h3>
-          <p>Nicolò Porcelluzzi’s five-part series for Il Post. I join episode four, <span lang="it">Cose dell’altro mondo</span>, on Project CETI.</p>
-          <div class="recording-footer"><span>Il Post · <span lang="it">Sonar</span></span><a class="text-link" href="https://www.ilpost.it/podcasts/sonar/4-cose-dellaltro-mondo" target="_blank" rel="noopener">Listen to episode four <span aria-hidden="true">↗</span></a></div>
-        </article>
-        <article class="recording">
-          <p class="eyebrow">Research seminar / 2024</p>
-          <h3>Informational and topological signatures of individuality</h3>
-          <p>Reading brain activity as a topological space, and finding in its shape what makes each person’s brain identifiable.</p>
-          <div class="recording-footer"><span>IPAM · UCLA</span><a class="text-link" href="https://www.youtube.com/watch?v=5mTLXb069aA" target="_blank" rel="noopener">Watch · 45 min <span aria-hidden="true">↗</span></a></div>
-        </article>
-        <article class="recording">
-          <p class="eyebrow">Research seminar / 2021</p>
-          <h3>Bridging cognitive control and network theory</h3>
-          <p>How the organisation of a network constrains the tasks it can carry out together.</p>
-          <div class="recording-footer"><span>CC&amp;B · University of Milan</span><a class="text-link" href="https://www.youtube.com/watch?v=rY8fUhDpSyM" target="_blank" rel="noopener">Watch · 73 min <span aria-hidden="true">↗</span></a></div>
-        </article>
+    </section>
+
+    <section id="about" class="sec about" data-scene="quiet" aria-labelledby="about-heading">
+      <div class="island about-card">
+        <img src="portrait.webp" alt="Portrait of Giovanni Petri" width="800" height="1000" loading="lazy">
+        <div data-island>
+          <p class="marker">About</p>
+          <h2 id="about-heading">Physics, minds,<br>and other lives.</h2>
+          <p>I trained in Pisa, did a PhD at Imperial College London, and spent years in Turin at the ISI Foundation and CENTAI. I now lead <a href="https://nplresearch.github.io/" target="_blank" rel="noopener">NPLab</a> at Northeastern University London.</p>
+          <p>I’m also a founding member of Project CETI, where I lead the network science. My work moves between brain activity, artificial learning systems and the social lives of sperm whales, following questions that rarely stay within one discipline.</p>
+          <p class="links"><a href="https://www.networkscienceinstitute.org/people/giovanni-petri" target="_blank" rel="noopener">Profile ↗</a><a href="https://scholar.google.co.uk/citations?user=jb__2PIAAAAJ&amp;hl=en" target="_blank" rel="noopener">Scholar ↗</a><a href="https://github.com/lordgrilo" target="_blank" rel="noopener">GitHub ↗</a></p>
+        </div>
       </div>
     </section>
 
-    <section id="work" class="work section wrap" aria-labelledby="work-title">
-      <div class="section-heading work-heading"><div><p class="eyebrow">03 / Selected research</p><h2 id="work-title">A few points <br><em>of departure.</em></h2></div><p class="section-aside">Research is collective. <br>These are a few threads from work <br>with my collaborators.</p></div>
-      <a class="work-row" id="work-representation" href="https://openreview.net/forum?id=ZF0xRAdsuY" target="_blank" rel="noopener">
-        <span class="work-index">01</span><div class="work-main"><span class="eyebrow">Representation / Learning</span><h3>Bound by semanticity</h3><p>How finite semantic resolution constrains generalisation in learning systems.</p><span class="work-authorship">M. Nurisso et al. <cite>Bound by semanticity: universal laws governing the generalization-identification tradeoff</cite></span></div><div class="work-meta"><span>ICLR</span><span>2026</span></div><span class="work-arrow" aria-hidden="true">↗</span>
-      </a>
-      <a class="work-row" id="work-structure" href="https://www.nature.com/articles/s41567-025-02784-1" target="_blank" rel="noopener">
-        <span class="work-index">02</span><div class="work-main"><span class="eyebrow">Structure / Scale</span><h3>Renormalising higher-order systems</h3><p>A Laplacian approach to moving between scales in systems with group interactions.</p><span class="work-authorship">M. Nurisso et al. <cite>Higher-order Laplacian renormalization</cite></span></div><div class="work-meta"><span>Nature Physics</span><span>2025</span></div><span class="work-arrow" aria-hidden="true">↗</span>
-      </a>
-      <a class="work-row" href="https://www.nature.com/articles/s41567-021-01170-x" target="_blank" rel="noopener">
-        <span class="work-index">03</span><div class="work-main"><span class="eyebrow">Cognition / Interference</span><h3>The limits of doing things at once</h3><p>Why sharing representations can constrain a network’s capacity for parallel processing.</p><span class="work-authorship">G. Petri et al. <cite>Topological limits to the parallel processing capability of network architectures</cite></span></div><div class="work-meta"><span>Nature Physics</span><span>2021</span></div><span class="work-arrow" aria-hidden="true">↗</span>
-      </a>
-      <a class="work-row" id="work-collectives" href="https://www.science.org/doi/10.1126/science.ady9280" target="_blank" rel="noopener">
-        <span class="work-index">04</span><div class="work-main"><span class="eyebrow">Collectives / Cooperation</span><h3>A birth, a group, a collective effort</h3><p>Documenting cooperative behaviour around a sperm whale birth with Project CETI.</p><span class="work-authorship">A. Maalouf et al. <cite>Cooperation by non-kin during birth underpins sperm whale social complexity</cite></span></div><div class="work-meta"><span>Science</span><span>2026</span></div><span class="work-arrow" aria-hidden="true">↗</span>
-      </a>
-      <div class="work-footer"><span>Follow the work further</span><a class="text-link" href="https://scholar.google.co.uk/citations?user=jb__2PIAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar <span aria-hidden="true">↗</span></a><a class="text-link" href="https://nplresearch.github.io/#/publications" target="_blank" rel="noopener">Lab publications <span aria-hidden="true">↗</span></a></div>
+    <section id="contact" class="sec contact" data-scene="quiet" aria-labelledby="contact-heading">
+      <div class="island" data-island>
+        <p class="marker" id="contact-heading">Get in touch</p>
+        <a class="mail" href="mailto:giovanni.petri@nulondon.ac.uk">giovanni.petri@nulondon.ac.uk <span aria-hidden="true">↗</span></a>
+        <p>Talks, conversations and collaborations welcome.</p>
+      </div>
     </section>
-
-    <section id="about" class="about section wrap" aria-labelledby="about-title">
-      <div class="about-image"><img src="portrait.webp" alt="Portrait of Giovanni Petri" width="800" height="1000" loading="lazy"></div>
-      <div class="about-copy"><p class="eyebrow">04 / About</p><h2 id="about-title">The physics of <br><em>bounded minds.</em></h2><p>Brains and AI systems reuse the same representations across tasks. That sharing is why they generalise, and also why they can’t do several things at once or keep similar things apart. I work on that trade-off: where it comes from, how hard it binds, and whether any mind, natural or artificial, gets around it.</p><p>The same question scales up. What can a group of agents work out that none of them can alone, whether they are neurons, language models or sperm whales? The whales are not a metaphor: I’m a founding member of Project CETI, where I lead the network science.</p><p>The tools are a physicist’s: networks, information theory, statistical mechanics, and higher-order networks for when pairs won’t do. I trained in Pisa, did a PhD on complex networks at Imperial College London, and spent years in Turin at the ISI Foundation and CENTAI. Now I’m Professor of Network Science at Northeastern University London, where I run NPLab.</p><div class="about-links"><a class="text-link" href="https://www.networkscienceinstitute.org/people/giovanni-petri" target="_blank" rel="noopener">Institutional profile <span aria-hidden="true">↗</span></a><a class="text-link" href="https://github.com/lordgrilo" target="_blank" rel="noopener">Code <span aria-hidden="true">↗</span></a></div></div>
-    </section>
-
-    <aside class="lab-strip wrap" aria-labelledby="lab-title"><span class="lab-mark" aria-hidden="true">[ NPL ]</span><div><p class="eyebrow">The collective endeavour</p><h2 id="lab-title">Meet the people behind the work.</h2></div><a class="text-link" href="https://nplresearch.github.io/" target="_blank" rel="noopener">Enter NPLab <span aria-hidden="true">↗</span></a></aside>
-
-    <footer class="site-footer wrap"><div><p class="eyebrow">Talks / Conversations / Collaborations</p><a class="contact-link" href="mailto:giovanni.petri@nulondon.ac.uk">Let’s talk<span aria-hidden="true"> ↗</span></a><a class="email-address" href="mailto:giovanni.petri@nulondon.ac.uk">giovanni.petri@nulondon.ac.uk</a></div><div class="footer-note"><span class="signature" aria-hidden="true"><span class="bracket">[</span> gp. <span class="bracket">]</span></span><p>Giovanni Petri <br>Structure. Cognition. Collectives.</p><a href="#main">Back to the top ↑</a></div></footer>
   </main>
+
+  <footer class="footer">
+    <a href="https://nplresearch.github.io/" target="_blank" rel="noopener">The lab <span aria-hidden="true">↗</span></a>
+    <details class="site-note" data-island>
+      <summary>About this site</summary>
+      <p>Each section runs a small model in the background: coupled oscillators; simplicial contagion, where groups as well as pairs pass activity on; a recurrent neural network driven by five overlapping inputs, seen through its top two principal components; Couzin's three-zone model of collective motion, where groups gather, turn into rotating mills and stream; Brownian drift; and the wave equation, with two sources taking turns, each drawn on its own. Clicking the open space nudges whichever model is showing. They are illustrations, not research data. Positions in the work map are an editorial reading.</p>
+    </details>
+    <button id="motion-toggle" type="button" hidden>Pause motion</button>
+  </footer>
 </body>
 </html>
