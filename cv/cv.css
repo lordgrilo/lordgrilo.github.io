@@ -1,0 +1,121 @@
+/* The CV: the homepage's graphite, Rajdhani and steel blue, without the moving
+   background. Printing (and the PDF, which is printed from this page) switches to
+   black on white A4. */
+@font-face { font-family: Rajdhani; src: url("../fonts/rajdhani-medium.ttf") format("truetype"); font-weight: 500; font-display: swap; }
+@font-face { font-family: Rajdhani; src: url("../fonts/rajdhani-semibold.ttf") format("truetype"); font-weight: 600; font-display: swap; }
+
+:root {
+  --paper: #0b0e13;
+  --ink: #edf0f5;
+  --muted: #a0abba;
+  --subtle: #8995a6;
+  --line: #29323e;
+  --accent: #a8c5e5;
+  --display: Rajdhani, "Arial Narrow", Arial, sans-serif;
+  --sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --gutter: clamp(20px, 6vw, 96px);
+  --bar: 64px;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: calc(var(--bar) + 20px); }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.6 var(--sans); -webkit-font-smoothing: antialiased; }
+a { color: inherit; text-decoration-color: #4a5a70; text-underline-offset: 4px; transition: color 180ms ease; }
+a:hover { color: var(--accent); }
+a:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+p { margin: 0 0 14px; color: var(--muted); }
+b { font-weight: 600; color: var(--ink); }
+small { display: block; margin-top: 2px; font-size: 14px; color: var(--subtle); }
+.skip-link { position: fixed; z-index: 5; top: -100px; left: 20px; background: var(--paper); padding: 12px 20px; }
+.skip-link:focus { top: 12px; }
+
+.bar { position: sticky; z-index: 3; top: 0; height: var(--bar); display: flex; align-items: center; justify-content: space-between; gap: 24px; padding: 0 var(--gutter); background: rgba(11, 14, 19, 0.94); backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); }
+.who { text-decoration: none; font: 600 22px/1 var(--display); letter-spacing: 0.01em; }
+/* The download is the one action here: drawn as the NPL bracket. */
+.pdf { position: relative; padding: 8px 14px; font-size: 13px; text-decoration: none; color: var(--ink); }
+.pdf::before, .pdf::after { content: ""; position: absolute; top: 0; bottom: 0; width: 6px; border: 1px solid var(--accent); }
+.pdf::before { left: 0; border-right: 0; }
+.pdf::after { right: 0; border-left: 0; }
+.pdf span { color: var(--accent); margin-left: 6px; }
+
+.cv { max-width: 1180px; margin: 0 auto; padding: 72px var(--gutter) 40px; display: grid; grid-template-columns: 200px minmax(0, 1fr); column-gap: clamp(32px, 5vw, 80px); }
+.cv-head { grid-column: 2; margin-bottom: 56px; }
+.eyebrow { font-size: 11px; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); margin-bottom: 20px; }
+h1 { font: 600 clamp(56px, 7vw, 96px)/0.9 var(--display); letter-spacing: -0.015em; margin: 0 0 22px -2px; }
+.role { font-size: 15px; line-height: 1.7; color: var(--muted); }
+.contacts { display: flex; flex-wrap: wrap; gap: 6px 22px; font-size: 14px; }
+.contacts a { color: var(--ink); }
+.profile { max-width: 40em; font-size: 18px; line-height: 1.6; color: var(--ink); margin-top: 28px; }
+
+.toc { grid-column: 1; grid-row: 1 / span 2; align-self: start; position: sticky; top: calc(var(--bar) + 40px); display: flex; flex-direction: column; gap: 2px; padding-top: 4px; }
+.toc a { padding: 5px 0 5px 14px; border-left: 1px solid var(--line); font-size: 13px; color: var(--subtle); text-decoration: none; }
+.toc a:hover { color: var(--ink); border-left-color: var(--accent); }
+main { grid-column: 2; }
+main:focus { outline: none; }
+
+section { padding: 34px 0 10px; border-top: 1px solid var(--line); }
+h2 { font: 500 30px/1.1 var(--display); letter-spacing: -0.01em; margin: 0 0 22px; }
+h3 { font: 500 13px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); margin: 30px 0 14px; }
+.note { font-size: 14px; }
+
+/* Date-led rows: a narrow Rajdhani column of years, the entry beside it. */
+.rows { list-style: none; margin: 0 0 18px; padding: 0; }
+.rows li { display: grid; grid-template-columns: 112px minmax(0, 1fr); gap: 18px; padding: 9px 0; color: var(--muted); }
+.rows li + li { border-top: 1px solid rgba(41, 50, 62, 0.55); }
+.when { font: 500 15px/1.6 var(--display); color: var(--subtle); letter-spacing: 0.02em; white-space: nowrap; }
+.rows .award .when { color: var(--accent); }
+
+.pubs { margin: 0 0 8px; padding-left: 0; list-style: none; }
+.pubs li { position: relative; padding: 10px 0 10px 46px; }
+.pubs li::before { content: counter(list-item); position: absolute; left: 0; top: 11px; width: 30px; text-align: right; font: 500 15px/1.5 var(--display); color: var(--subtle); }
+.pubs a { display: block; color: var(--ink); text-decoration: none; font-size: 16px; line-height: 1.45; }
+.pubs a:hover { color: var(--accent); }
+.by { display: block; font-size: 14px; color: var(--subtle); margin-top: 3px; }
+.by b { color: var(--muted); }
+.venue { display: block; font: 500 14px/1.5 var(--display); letter-spacing: 0.03em; color: var(--accent); margin-top: 2px; }
+
+.facts { margin: 6px 0 18px; }
+.facts div { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 18px; padding: 10px 0; border-top: 1px solid rgba(41, 50, 62, 0.55); }
+.facts dt { font-size: 14px; color: var(--subtle); }
+.facts dd { margin: 0; color: var(--muted); }
+
+.foot { max-width: 1180px; margin: 0 auto; padding: 30px var(--gutter) 60px; display: flex; gap: 26px; font-size: 13px; color: var(--subtle); border-top: 1px solid var(--line); }
+.foot span { margin-left: auto; }
+
+@media (max-width: 860px) {
+  .cv { display: block; padding-top: 48px; }
+  .toc { display: none; }
+  .rows li { grid-template-columns: 1fr; gap: 0; }
+  .facts div { grid-template-columns: 1fr; gap: 2px; }
+  .profile { font-size: 17px; }
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* Print and PDF: black on white, A4, compact; links stay live in the PDF. */
+@media print {
+  @page { size: A4; margin: 16mm 16mm 18mm; }
+  :root { --ink: #111; --muted: #2b2f36; --subtle: #5b6370; --line: #d5d9df; --accent: #2f5d8a; }
+  body { background: #fff; color: var(--ink); font-size: 10pt; line-height: 1.45; }
+  .bar, .toc, .foot, .skip-link { display: none; }
+  .note { font-size: 9pt; margin-bottom: 2pt; }
+  .cv { display: block; padding: 0; max-width: none; }
+  .cv-head { margin-bottom: 14pt; }
+  h1 { font-size: 34pt; margin-bottom: 8pt; }
+  .eyebrow { margin-bottom: 8pt; }
+  .role, .contacts { font-size: 9.5pt; margin-bottom: 4pt; }
+  .profile { font-size: 10.5pt; margin-top: 10pt; }
+  a { text-decoration: none; }
+  section { padding: 10pt 0 2pt; break-inside: auto; }
+  h2 { font-size: 15pt; margin-bottom: 6pt; break-after: avoid; }
+  h3 { font-size: 8pt; margin: 9pt 0 4pt; break-after: avoid; }
+  .rows li { grid-template-columns: 26mm minmax(0, 1fr); gap: 8pt; padding: 3pt 0; break-inside: avoid; }
+  .rows li + li, .facts div { border-top: 0; }
+  .when { font-size: 10pt; }
+  small { font-size: 9pt; margin-top: 0; }
+  .pubs li { padding: 3pt 0 3pt 9mm; break-inside: avoid; }
+  .pubs li::before { top: 3pt; width: 6mm; font-size: 10pt; }
+  .pubs a { font-size: 10pt; }
+  .by, .venue { font-size: 9pt; margin-top: 0; }
+  .facts div { grid-template-columns: 34mm minmax(0, 1fr); gap: 8pt; padding: 3pt 0; break-inside: avoid; }
+  .facts dt { font-size: 9pt; }
+}
